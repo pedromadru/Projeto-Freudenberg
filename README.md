@@ -1,12 +1,11 @@
 # Aprendizado por Projeto Integrado (API) - Template
 O objetivo deste projeto é dimensionar adequadamente os níveis de Work in Process (WIP) no processo TEB, com base na demanda real da etapa de embalagem, visando garantir um fluxo produtivo equilibrado, estável e eficiente. A proposta busca reduzir excessos de estoque intermediário, diminuir o lead time e aumentar a visibilidade dos problemas operacionais, sem comprometer a continuidade da produção. Dessa forma, o projeto se fundamenta nos princípios do pensamento Lean, priorizando a produção puxada, a eliminação de desperdícios e o alinhamento entre capacidade produtiva e consumo real do processo.
-![image](https://github.com/user-attachments/assets/6a7b92eb-8031-442f-a037-325593cc8515)
+
 
 
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
@@ -23,19 +22,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 12/03/2026 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 30/03/2026 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  04/05/2026| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 25/05/2026 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|11/06/2026 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
@@ -90,6 +84,13 @@ Vídeo com a apresentação final da API do "semestre/ano"
 > Liste todas as tecnologias referentes aos processos da API
 
 # Cronograma das Sprints
+| Sprint            | Período         | Principais Atividades              | Status          |
+| ----------------- | --------------- | ---------------------------------- | --------------- |
+| Kick-off          | 02/03/2026      | Alinhamento inicial e requisitos   | ✅ Concluído     |
+| Sprint 1          | 16/03 até 30/03 | Levantamento e análise do processo | ✅ Concluído     |
+| Sprint 2          | 06/04 até 04/05 | Desenvolvimento da solução         | ✅ Concluído     |
+| Sprint 3          | 11/05 até 25/05 | Implementação e testes             | 🔄 Em andamento |
+| Feira de Soluções | 11/06/2026      | Apresentação final                 | ⏳ A fazer       |
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
@@ -98,12 +99,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
+* Requisitos Funcionais
+* Monitorar níveis de WIP;
+* Registrar dados produtivos;
+* Identificar gargalos operacionais;
+* Gerar indicadores de desempenho;
+* Auxiliar no balanceamento produtivo.
+## Requisitos Não Funcionais
+* Interface simples e intuitiva;
+* Facilidade de atualização dos dados;
+* Alta disponibilidade das informações;
+* Confiabilidade dos indicadores;
+* Organização visual do fluxo produtivo.
 ## Burndown
 >Colocar aqui Burndown do projeto
 
