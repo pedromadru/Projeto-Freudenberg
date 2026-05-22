@@ -39,7 +39,16 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+O objetivo principal do projeto é dimensionar adequadamente os níveis de Work in Process (WIP) no processo TEB, com base na demanda real do processo produtivo, garantindo:
+
+* Estabilidade operacional
+* Redução do lead time
+* Controle do fluxo produtivo
+* Redução de desperdícios
+* Maior previsibilidade operacional
+* Implementação gradual de um sistema puxado
+* Aplicação dos princípios Lean Manufacturing
+* Funcionalidades e Demonstrações das Sprints
 
 # Funcionalidades e Demonstrações das Sprints
 
