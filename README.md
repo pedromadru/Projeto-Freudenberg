@@ -53,20 +53,16 @@ O objetivo principal do projeto é dimensionar adequadamente os níveis de Work 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
 
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+https://youtu.be/xpWRq-xp7Cs?si=3VYVxLv7aTYAR1rh)
 
 
 ## Sprint 2
->Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+https://youtu.be/H9k11LjvEso
 
 ## Sprint 3
->Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Sprint 4
