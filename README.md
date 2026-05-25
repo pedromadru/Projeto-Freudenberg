@@ -20,8 +20,8 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
+Sprint | Previsão | Status| 
+|------|--------|------|
 |Kick Off | 12/03/2026 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 30/03/2026 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  04/05/2026| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
