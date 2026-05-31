@@ -108,9 +108,8 @@ A Sprint 3 focou na melhoria do layout produtivo e no controle visual do process
 | Feira de Soluções | 11/06/2026      | Apresentação final                 | ⏳ A fazer       |
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+<img width="965" height="1012" alt="image" src="https://github.com/user-attachments/assets/f9349e7b-d54e-4966-84d3-cd4d9cccbb81" />
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 
 ## Backlog do produto
