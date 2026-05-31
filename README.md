@@ -10,7 +10,7 @@ O objetivo deste projeto é dimensionar adequadamente os níveis de Work in Proc
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
+* [Backlog](#backlog)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -112,7 +112,7 @@ A Sprint 3 focou na melhoria do layout produtivo e no controle visual do process
 
 
 
-## Backlog do produto
+## Backlog 
 * Requisitos Funcionais
 * Monitorar níveis de WIP;
 * Registrar dados produtivos;
